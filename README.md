@@ -1,2 +1,5 @@
-# AccesaApp
-App for Accesa interview.
+
+# Miruna's weather app
+
+A weather application for Accesa internship.
+
